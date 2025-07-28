@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 1em;
+    background-color: teal;
+    color: aliceblue;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 20px;
+}
